@@ -18,8 +18,7 @@ public class Box {
 		 public static void main(String[] args) {
 			Box myBox = new Box();
 		 	myBox.size = 5;
-			 
-			 myBox.printBox();
+			myBox.printBox();
 	 }
 }
 	 
