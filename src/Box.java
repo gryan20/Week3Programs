@@ -4,7 +4,7 @@ public class Box {
 	public int size = 0;
 	
 	
-	public void printBox() {
+	public void printBox() { 
 		
 		for (int row =0;  row < size; row ++)
 		{
